@@ -342,6 +342,13 @@ nav{
     height: 5%;
 }
 
+footer{
+    background: #111 ;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
 @media screen and (max-width: 999px) {
 
     body{
@@ -471,4 +478,5 @@ nav{
     }
 
         
+
 }
